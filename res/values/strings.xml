@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_tab">Home</string>
+    <string name="favorites_tab">Favorites</string>
+    <string name="app_name">Android Custom Tabs</string>
+</resources>

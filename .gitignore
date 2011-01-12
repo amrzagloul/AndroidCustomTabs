@@ -1,0 +1,13 @@
+*~
+*.tmp
+*.bak
+*.swp
+*.apk
+.DS_Store
+.metadata
+tmp/**
+tmp/**/*
+Thumbs.db
+local.properties
+bin
+gen
