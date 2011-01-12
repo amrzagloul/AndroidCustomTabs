@@ -1,7 +1,7 @@
 Android Custom Tabs
 ===================
 
-.. image:: screenshot.png
+.. image:: http://mariz.org/media/images/posts/android_custom_tabs.png
    :width: 320
    :height: 97
 
